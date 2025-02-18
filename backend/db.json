@@ -13,7 +13,7 @@
     {
       "id": "5b8a",
       "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev"
+      "autoria": "Dev chato"
     },
     {
       "id": "68uy",
@@ -26,11 +26,6 @@
       "autoria": "Mestre Yoda"
     },
     {
-      "id": "9f3c",
-      "conteudo": "Você não é todo mundo!",
-      "autoria": "Mãe"
-    },
-    {
       "id": "6a2b",
       "conteudo": "Foi sem querer querendo!",
       "autoria": "Chaves"
@@ -38,11 +33,6 @@
     {
       "id": "7e2a",
       "conteudo": "Que a força esteja com você!",
-      "autoria": "Mestre Yoda"
-    },
-    {
-      "id": "5c8f",
-      "conteudo": "Resolver o bug não consegue? Esfriar a cabeça vc deve.",
       "autoria": "Mestre Yoda"
     },
     {
@@ -54,26 +44,6 @@
       "id": "3f1a",
       "conteudo": "Conserta minha impressora?",
       "autoria": "Grupo da família"
-    },
-    {
-      "id": "8b4c",
-      "conteudo": "A vingança nunca é plena... mata a alma e a envenena...",
-      "autoria": "Seu Madruga"
-    },
-    {
-      "id": "4d2e",
-      "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
-      "autoria": "Mãe"
-    },
-    {
-      "id": "e541",
-      "conteudo": "          olha la ",
-      "autoria": "poeta"
-    },
-    {
-      "id": "04b6",
-      "conteudo": "na volta a gente compra ",
-      "autoria": "mae"
     }
   ]
 }
